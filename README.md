@@ -1,5 +1,4 @@
-# 💫 About Me:
-👋 Привет! Я Junior ML Engineer<br><br>Люблю разбираться в алгоритмах и строить модели машинного обучения.<br>Основной фокус — **classical machine learning** и развитие инженерных навыков.<br><br>🧠 Технологии<br><br>**Языки**<br><br>* Python<br>* C++ (изучаю)<br><br>**Machine Learning**<br><br>* NumPy<br>* Pandas<br>* scikit-learn<br>* Pytorch<br>* Scipy<br>* Statsmodels<br><br>**Tools**<br><br>* Git<br>* Linux<br>* Docker<br><br>⚡ Немного обо мне<br><br>> *"You have no enemies. No one has any enemies."*<br>> — Thors<br>
+## 👋 Привет! Я Junior ML Engineer<br><br>Люблю разбираться в алгоритмах и строить модели машинного обучения.<br>Основной фокус — **classical machine learning** и развитие инженерных навыков.<br><br>🧠 Технологии<br><br>**Языки**<br><br>* Python<br>* C++ (изучаю)<br><br>**Machine Learning**<br><br>* NumPy<br>* Pandas<br>* scikit-learn<br>* Pytorch<br>* Scipy<br>* Statsmodels<br><br>**Tools**<br><br>* Git<br>* Linux<br>* Docker<br><br>⚡ Немного обо мне<br><br>> *"You have no enemies. No one has any enemies."*<br>> — Thors<br>
 
 
 # 💻 Tech Stack:
